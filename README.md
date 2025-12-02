@@ -9,6 +9,8 @@ A feature-rich, user-authenticated task management application built with **Reac
 🔗 **Frontend:** [Live Link](https://ticklist.onrender.com)  
 🔗 **Backend API:** [API Link](https://ticklist-server.onrender.com)
 
+Note: for activating the backend it takes time.
+
 ---
 
 ## 📦 Features
